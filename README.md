@@ -48,8 +48,9 @@
 
 ## 🎨 Clean Dark Purple Accent
 <div align="center">
-  <img src="https://github.com/github/explore/raw/main/topics/dark/dark.png" width="200">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/gradient-violet.png" width="350"/>
 </div>
+
 
 ---
 
