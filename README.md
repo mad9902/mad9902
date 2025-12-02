@@ -54,6 +54,7 @@
 ## 🎨 Clean Dark Purple Accent
 <div align="center">
   <img src="https://giffiles.alphacoders.com/220/220120.gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/d9/a1/f3/d9a1f394ff5722a94549f92fa3abcf0e.gif" width="350"/>
 </div>
 
 
