@@ -32,6 +32,11 @@
 </div>
 
 ---
+## 🎨 Clean Dark Snake Animation
+<div align="center">
+  <img src="https://github.com/mad9902/mad9902/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 
 ## 📊 GitHub Stats (Lite & Stable)
 <div align="center">
@@ -48,7 +53,7 @@
 
 ## 🎨 Clean Dark Purple Accent
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/gradient-violet.png" width="350"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F220120&psig=AOvVaw2UIzpuztAbjbuB9VUUN5dg&ust=1764750079831000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCsuMC8npEDFQAAAAAdAAAAABAV" width="350"/>
 </div>
 
 
