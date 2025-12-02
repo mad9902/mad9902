@@ -32,9 +32,9 @@
 </div>
 
 ---
-## 🎨 Clean Dark Snake Animation
+## Activity Snake
 <div align="center">
-  <img src="https://github.com/mad9902/mad9902/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mad9902/mad9902/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
@@ -51,10 +51,11 @@
 
 ---
 
-## 🎨 Clean Dark Purple Accent
+## 🎨 vibin with the vibes
 <div align="center">
   <img src="https://giffiles.alphacoders.com/220/220120.gif" width="350"/>
   <img src="https://i.pinimg.com/originals/d9/a1/f3/d9a1f394ff5722a94549f92fa3abcf0e.gif" width="350"/>
+  <img src="https://i.pinimg.com/736x/1b/9f/82/1b9f82598eeab17deaf408690584bda9.jpg" width="350"/>
 </div>
 
 
