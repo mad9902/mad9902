@@ -53,7 +53,7 @@
 
 ## 🎨 Clean Dark Purple Accent
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F220120&psig=AOvVaw2UIzpuztAbjbuB9VUUN5dg&ust=1764750079831000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCsuMC8npEDFQAAAAAdAAAAABAV" width="350"/>
+  <img src="https://giffiles.alphacoders.com/220/220120.gif" width="350"/>
 </div>
 
 
