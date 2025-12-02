@@ -1,65 +1,66 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://cdn.pfps.gg/pfps/2178-robin-16.png" width="120" alt="logo"/>
-</p>
-
-<h1 align="center">Mad</h1>
-<p align="center">
-  <b>Building systems. Breaking limits.</b>
-</p>
-
-<br>
+<div align="center">
+  <img src="https://cdn.pfps.gg/pfps/2178-robin-16.png" width="110" alt="logo"/>
+  <h1>mad9902</h1>
+  <p><b>Building systems. Breaking limits.</b></p>
+</div>
 
 ---
 
-## 🎛️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,redis,cloudflare,linux" />
-</p>
+## 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,redis,cloudflare,linux&perline=5" />
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## ⭐ Projects  
+### **MadBot — Multi-System Discord Bot**
+> TCG • Dungeon • Streak • Confession • Music • Economy  
+<div>
+  <a href="https://github.com/mad9902/madbot">
+    <img src="https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-### 🧠 MadBot — Multi-System Discord Bot  
-> TCG • Dungeon • Streak • Economy • Music • Image Generator • Fully DB Driven  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mad9902&repo=madbot&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 💸 SFUND Backend Platform  
-> Laravel • MongoDB • Payment Flow • OTP • Validation Engine  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mad9902&repo=sfund-backend&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mad9902&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad9902&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### **SFUND Backend Platform**
+> Laravel • MongoDB • Payment Flow • OTP Validation  
+<div>
+  <a href="https://github.com/mad9902/sfund-backend">
+    <img src="https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 🖼️ Gallery (Stable Dark Purple)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="260" />
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/gradient-violet.png" width="260" />
-</p>
+## 📊 GitHub Stats (Lite & Stable)
+<div align="center">
+
+  <!-- Streak Stats (STABLE PROVIDER) -->
+  <img src="https://streak-stats.demolab.com?user=mad9902&theme=tokyonight&hide_border=true" height="170"/>
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mad9902&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+## 🎨 Clean Dark Purple Accent
+<div align="center">
+  <img src="https://github.com/github/explore/raw/main/topics/dark/dark.png" width="200">
+</div>
 
 ---
 
 ## 📬 Connect
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Mad9902-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Discord-mad9902-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
 
-<br>
+<br/>
 
-<p align="center">
+<div align="center">
   <b>Focus. Build. Repeat.</b>
-</p>
+</div>
