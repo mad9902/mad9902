@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/github/explore/main/topics/dark/dark.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F666532813639587869%2F&psig=AOvVaw1PfclL0pn9coAYk_8rhgNP&ust=1764749550819000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjn2si6npEDFQAAAAAdAAAAABAE)" width="120" alt="logo"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F666532813639587869%2F&psig=AOvVaw1PfclL0pn9coAYk_8rhgNP&ust=1764749550819000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjn2si6npEDFQAAAAAdAAAAABAE" width="120" alt="logo"/>
 </p>
 
 <h1 align="center">Mad</h1>
