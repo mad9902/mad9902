@@ -1,128 +1,64 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/Zk8r1O4.png" height="120" />
+  <img src="https://i.imgur.com/J8MpqOO.png" width="120" alt="logo"/>
 </p>
 
-<h1 align="center">🦇 Mad — Vigilante Coder in the Shadows</h1>
+<h1 align="center">Mad</h1>
 <p align="center">
-  <i>"I work best at night. When everything’s quiet… and the bugs can’t hide."</i>
+  <b>Building systems. Breaking limits.</b>
 </p>
 
----
-
-## 🦅 About Me
-- 💻 Full-stack developer who prefers the dark theme (always).
-- 🧠 Builder of complex systems: Discord bots, TCG engines, automation, and backend platforms.
-- 🟣 Works silently, ships loudly.
-- 🌙 Most productive at midnight — same energy as Teen Titans Robin.
+<br>
 
 ---
 
-## ⚔️ My Arsenal (Tech Stack)
+## 🎛️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,linux,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,redis,cloudflare,linux" />
 </p>
 
 ---
 
-## 🌑 Featured Projects
+## 🔥 Featured Projects
 ### 🧠 MadBot — Multi-System Discord Bot  
-> AI • TCG Battle • Dungeon • Music • Confession • Economy • Fully DB Driven  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=madbot&theme=tokyonight&hide_border=true" /></a>
+> TCG • Dungeon • Streak • Economy • Music • Image Generator • Fully DB Driven  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=madbot&theme=tokyonight&hide_border=true"/>
+</p>
 
-### 💸 SFUND Platform — Backend  
-> Laravel • MongoDB • Payment Flow • Verification Engine  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=sfund-backend&theme=tokyonight&hide_border=true" /></a>
-
----
-
-## 🦾 Stats & Activity
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mad&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad&layout=compact&theme=tokyonight&hide_border=true" />
+### 💸 SFUND Backend Platform  
+> Laravel • MongoDB • Payment Flow • OTP • Validation Engine  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=sfund-backend&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎭 Moodboard (Dark Robin Energy)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://i.imgur.com/o2dh8RZ.gif" width="220"/>
-  <img src="https://i.imgur.com/3uTfS7u.gif" width="220"/>
-  <img src="https://i.imgur.com/YBgVsk1.gif" width="220"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🦇 Contact
+## 🖼️ Gallery Aesthetic (Perfect Dark Purple)
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Mad%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <i>“No powers. Just skill.”</i>  
-</p>
-<!-- HEADER -->
-<p align="center">
-  <img src="https://i.imgur.com/Zk8r1O4.png" height="120" />
-</p>
-
-<h1 align="center">🦇 Mad — Vigilante Coder in the Shadows</h1>
-<p align="center">
-  <i>"I work best at night. When everything’s quiet… and the bugs can’t hide."</i>
+  <img src="https://i.imgur.com/1bb3O9C.gif" width="230" />
+  <img src="https://i.imgur.com/2W7hYCf.gif" width="230" />
+  <img src="https://i.imgur.com/QlS0QFu.gif" width="230" />
 </p>
 
 ---
 
-## 🦅 About Me
-- 💻 Full-stack developer who prefers the dark theme (always).
-- 🧠 Builder of complex systems: Discord bots, TCG engines, automation, and backend platforms.
-- 🟣 Works silently, ships loudly.
-- 🌙 Most productive at midnight — same energy as Teen Titans Robin.
-
----
-
-## ⚔️ My Arsenal (Tech Stack)
+## 📬 Connect
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,linux,cloudflare" />
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Mad-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 🌑 Featured Projects
-### 🧠 MadBot — Multi-System Discord Bot  
-> AI • TCG Battle • Dungeon • Music • Confession • Economy • Fully DB Driven  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=madbot&theme=tokyonight&hide_border=true" /></a>
-
-### 💸 SFUND Platform — Backend  
-> Laravel • MongoDB • Payment Flow • Verification Engine  
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mad&repo=sfund-backend&theme=tokyonight&hide_border=true" /></a>
-
----
-
-## 🦾 Stats & Activity
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mad&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎭 Moodboard (Dark Robin Energy)
-<p align="center">
-  <img src="https://i.imgur.com/o2dh8RZ.gif" width="220"/>
-  <img src="https://i.imgur.com/3uTfS7u.gif" width="220"/>
-  <img src="https://i.imgur.com/YBgVsk1.gif" width="220"/>
-</p>
-
----
-
-## 🦇 Contact
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Mad%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<br>
 
 <p align="center">
-  <i>“No powers. Just skill.”</i>  
+  <b>“Focus. Build. Repeat.”</b>
 </p>
