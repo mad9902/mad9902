@@ -1,70 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=220&section=header&text=mad9902&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20useful%20systems%20with%20curiosity&descAlignY=58&descSize=17" width="100%" alt="mad9902 profile header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=240&section=header&text=mad9902&fontSize=68&fontColor=F8FAFC&fontAlignY=38&desc=DISCORD%20SYSTEMS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20AUTOMATION&descSize=15&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="mad9902 — Discord systems, backend, automation"
+  />
 
-  <p><strong>Developer · Builder · Problem solver</strong></p>
+  <p>
+    <b>Designing and building systems that make communities and workflows run better.</b>
+  </p>
 
   <a href="https://github.com/mad9902">
-    <img src="https://img.shields.io/badge/GitHub-mad9902-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://discord.com/users/416234104317804544">
-    <img src="https://img.shields.io/badge/Discord-mad99-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-06B6D4?style=flat-square" alt="Status: building"/>
 </div>
 
 ---
 
-## About
+### `01 / SYSTEMS I BUILD`
 
-I build bots, web platforms, and backend systems—from the first idea to the details that make them useful.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 MadBot</h3>
+      <p>A multi-system Discord bot for interactive communities.</p>
+      <p><code>TCG</code> <code>Streaks</code> <code>Games</code><br/>
+      <code>Moderation</code> <code>Roles</code> <code>Economy</code></p>
+      <a href="https://github.com/mad9902/madbot">↗ Explore repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>◈ MadBot Dashboard</h3>
+      <p>A web control center for server configuration, analytics, and moderation tools.</p>
+      <p><code>Laravel</code> <code>Discord OAuth</code><br/>
+      <code>AutoMod</code> <code>Analytics</code></p>
+      <a href="https://github.com/mad9902/discord-dashboard">↗ Explore repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ SFUND Backend</h3>
+      <p>Backend platform services for payment workflows and validation.</p>
+      <p><code>Laravel</code> <code>MongoDB</code><br/>
+      <code>Payment flows</code> <code>OTP</code></p>
+      <a href="https://github.com/mad9902/sfund-backend">↗ Explore repository</a>
+    </td>
+  </tr>
+</table>
 
-- 🤖 Developing **MadBot**, a multi-feature Discord bot
-- ⚙️ Building backend services with **Laravel, PHP, and Python**
-- 🧩 Interested in automation, APIs, and reliable systems
+### `02 / TOOLKIT`
 
-## Tech Stack
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python · PHP · JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Laravel · MySQL · MongoDB · Redis</td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td>Docker · Linux · Cloudflare</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React</td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,mongodb,react,docker,redis,cloudflare,linux&perline=5" alt="Python, PHP, Laravel, MySQL, MongoDB, React, Docker, Redis, Cloudflare, Linux"/>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,mysql,mongodb,redis,docker,linux,cloudflare&perline=6" alt="Technology stack"/>
 </div>
 
-## Featured Projects
-
-### 🤖 MadBot
-A multi-feature Discord bot with server tools and interactive community features.
-
-**TCG · Games · Streaks · Confessions · Moderation · Roles · Music · Economy**
-
-[![View MadBot repository](https://img.shields.io/badge/Explore%20MadBot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mad9902/madbot)
-
-### ⚙️ SFUND Backend Platform
-Backend services for payment workflows, validation, and platform operations.
-
-**Laravel · MongoDB · Payment flows · OTP validation**
-
-[![View SFUND Backend repository](https://img.shields.io/badge/Explore%20SFUND%20Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mad9902/sfund-backend)
-
-## GitHub Activity
+### `03 / GITHUB TELEMETRY`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution activity"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mad9902&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad9902&layout=compact&hide_border=true&theme=tokyonight"
+    height="165"
+    alt="Most used languages"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=mad9902&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Contribution streak"
+  />
 </div>
 
-## GitHub Stats
+### `04 / CONTRIBUTION FLOW`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mad9902&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mad9902&theme=tokyonight" height="165" alt="GitHub profile summary"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Animated GitHub contribution graph"
+  />
 </div>
 
-## Currently vibing to
+---
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220120.gif" width="280" alt="Animated artwork"/>
-  <img src="https://i.pinimg.com/originals/d9/a1/f3/d9a1f394ff5722a94549f92fa3abcf0e.gif" width="280" alt="Animated artwork"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <strong>Focus. Build. Repeat.</strong>
+  <sub><b>FOCUS → BUILD → IMPROVE</b></sub>
 </div>
